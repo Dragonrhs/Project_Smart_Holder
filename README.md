@@ -8,7 +8,7 @@ Repositório para o projeto referente a matéria EEN251 do IMT, sobre supervisã
 - [Materiais utilizados](#Materiais-utilizados)
 - [Funcionamento](#Funcionamento)
 - [Diagrama de blocos do sistema](#Diagrama-de-blocos-do-sistema)
-- [Datasheet](#Datasheet)
+- [Esquema Elétrico](#Esquema-Elétrico)
 - [Autores](#Autores)
 ## Descrição 
 
@@ -35,7 +35,9 @@ O projeto deve apartir do peso da garrafa colocada saber se ela esta vazia ou ch
 
 ## Diagrama de blocos do sistema
 
-## Datasheet
+## Esquema Elétrico
+
+![screenshot](imagem.png)
 
 ## Autores
 - [Ryuske Hideaki Sato](https://github.com/Dragonrhs)
