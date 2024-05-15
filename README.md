@@ -6,6 +6,7 @@ Repositório para o projeto referente a matéria EEN251 do IMT, sobre supervisã
 - [Descrição](#Descrição)
 - [Requisitos](#Requisitos)
 - [Materiais utilizados](#Materiais-utilizados)
+- [Custos Estimado](#Custos-Estimado)
 - [Funcionamento](#Funcionamento)
 - [Diagrama de blocos do sistema](#Diagrama-de-blocos-do-sistema)
 - [Esquema Elétrico](#Esquema-Elétrico)
@@ -18,9 +19,26 @@ O projeto consiste em um recipiente inteligente para garrafas, a qual por meio d
 
 O projeto deve apartir do peso da garrafa colocada saber se ela esta vazia ou cheia indicando atraves de leds essa informaçao, deve apresentar no display a temperatura que a bebida está, deve ter uma fonte de alimentação seja por meio da fonte ou opcionalmente por meio da bateria. 
 
-*fazer tabela*
+<style>
+.tabela tr:nth-child(3){background:red;}
+ </style>  
+
+<div class = "tabela">
+
+| ID    |             Requisito          | Tipo |
+| :-----|-------------------------------|------:|
+| UR-01 | Medir a temperatura externa da garrafa              |Obrigatório|
+| UR-02 | Medir o peso da garrafa                             |Obrigatório|
+| UR-03 | Mostrar a temperatura no display                    |Obrigatório|
+| UR-04 | Leds devem ascender de acordo com o peso da garrafa |Obrigatório|
+| UR-05 | Tem que ter uma fonte de energia para alimentação   |Obrigatório|
+| UR-06 | Uso de bateria para alimentação                     | Desejável |
+
+</div class = "tabela">
 
 ## Materiais utilizados
+
+- Porta garrafa
 - 1 Sensor Temperatura e Umidade DTH11 
 - 1 Display OLED i2c OLED 128x32 Px 
 - 1 Raspberry Pi Pico
@@ -29,7 +47,18 @@ O projeto deve apartir do peso da garrafa colocada saber se ela esta vazia ou ch
 - 3 Leds(vermelho, amarelo, verde)
 - Jumpers
 
+## Custos Estimado 
 
+| Item              |  Preço | 
+| :-----------------|-------:|
+| DTH11             | R$8,90 |
+| OLED i2c          | R$10,97|
+| Raspberry Pi Pico | R$33,90|
+| HX711             | R$5,90 |
+| Célula de carga   | R$7,90 |
+| Leds x 3          | R$0,72 |
+| Porta garrafa     | R$18,49|
+| Total             | R$86,78|
 
 ## Funcionamento
 
