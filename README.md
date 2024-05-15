@@ -20,8 +20,10 @@ O projeto consiste em um recipiente inteligente para garrafas, a qual por meio d
 O projeto deve apartir do peso da garrafa colocada saber se ela esta vazia ou cheia indicando atraves de leds essa informaçao, deve apresentar no display a temperatura que a bebida está, deve ter uma fonte de alimentação seja por meio da fonte ou opcionalmente por meio da bateria. 
 
 <style>
+
 .tabela tr:nth-child(3){background:red;}
- </style>  
+
+</style>  
 
 <div class = "tabela">
 
