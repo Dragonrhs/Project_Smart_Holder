@@ -37,7 +37,7 @@ O projeto deve apartir do peso da garrafa colocada saber se ela esta vazia ou ch
 
 ## Esquema Elétrico
 
-![screenshot](imagem.png)
+![screenshot](imagens/imagem.png)
 
 ## Autores
 - [Ryuske Hideaki Sato](https://github.com/Dragonrhs)
