@@ -23,13 +23,12 @@ O projeto deve apartir do peso da garrafa colocada saber se ela esta vazia ou ch
 | ID    |                        Requisito                    |     Tipo     |
 | :-----|-----------------------------------------------------|-------------:|
 | UR-01 | Medir a temperatura externa da garrafa              | Obrigatório  |
-| UR-02 | Medir o peso da garrafa                             | Obrigatório  |
+| UR-02 | $`\colorbox{Apricot}{Medir o peso da garrafa}`$     | Obrigatório  |
 | UR-03 | Mostrar a temperatura no display                    | Obrigatório  |
 | UR-04 | Leds devem ascender de acordo com o peso da garrafa | Obrigatório  |
 | UR-05 | Tem que ter uma fonte de energia para alimentação   | Obrigatório  |
 | UR-06 | Uso de bateria para alimentação                     |**Desejável** |
 
-</div>
 
 ## Materiais utilizados
 
@@ -59,9 +58,11 @@ O projeto deve apartir do peso da garrafa colocada saber se ela esta vazia ou ch
 
 ## Diagrama de blocos do sistema
 
+![screenshot](imagens/diagrama.png)
+
 ## Esquema Elétrico
 
-![screenshot](imagens/imagem.png)
+![screenshot](imagens/D_eletrico.png)
 
 ## Autores
 - [Ryuske Hideaki Sato](https://github.com/Dragonrhs)
