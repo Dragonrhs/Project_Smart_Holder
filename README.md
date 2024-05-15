@@ -19,24 +19,17 @@ O projeto consiste em um recipiente inteligente para garrafas, a qual por meio d
 
 O projeto deve apartir do peso da garrafa colocada saber se ela esta vazia ou cheia indicando atraves de leds essa informaçao, deve apresentar no display a temperatura que a bebida está, deve ter uma fonte de alimentação seja por meio da fonte ou opcionalmente por meio da bateria. 
 
-<style>
 
-.tabela tr:nth-child(3){background:red;}
+| ID    |                        Requisito                    |     Tipo     |
+| :-----|-----------------------------------------------------|-------------:|
+| UR-01 | Medir a temperatura externa da garrafa              | Obrigatório  |
+| UR-02 | Medir o peso da garrafa                             | Obrigatório  |
+| UR-03 | Mostrar a temperatura no display                    | Obrigatório  |
+| UR-04 | Leds devem ascender de acordo com o peso da garrafa | Obrigatório  |
+| UR-05 | Tem que ter uma fonte de energia para alimentação   | Obrigatório  |
+| UR-06 | Uso de bateria para alimentação                     |**Desejável** |
 
-</style>  
-
-<div class = "tabela" style=".tabela tr:nth-child(3){background:red;}">
-
-| ID    |             Requisito          | Tipo |
-| :-----|-------------------------------|------:|
-| UR-01 | Medir a temperatura externa da garrafa              |Obrigatório|
-| UR-02 | Medir o peso da garrafa                             |Obrigatório|
-| UR-03 | Mostrar a temperatura no display                    |Obrigatório|
-| UR-04 | Leds devem ascender de acordo com o peso da garrafa |Obrigatório|
-| UR-05 | Tem que ter uma fonte de energia para alimentação   |Obrigatório|
-| UR-06 | Uso de bateria para alimentação                     | Desejável |
-
-</div class = "tabela">
+</div>
 
 ## Materiais utilizados
 
@@ -51,16 +44,16 @@ O projeto deve apartir do peso da garrafa colocada saber se ela esta vazia ou ch
 
 ## Custos Estimado 
 
-| Item              |  Preço | 
-| :-----------------|-------:|
-| DTH11             | R$8,90 |
-| OLED i2c          | R$10,97|
-| Raspberry Pi Pico | R$33,90|
-| HX711             | R$5,90 |
-| Célula de carga   | R$7,90 |
-| Leds x 3          | R$0,72 |
-| Porta garrafa     | R$18,49|
-| Total             | R$86,78|
+| Item              |   Preço   | 
+| :-----------------|----------:|
+| DTH11             | R$8,90    |
+| OLED i2c          | R$10,97   |
+| Raspberry Pi Pico | R$33,90   |
+| HX711             | R$5,90    |
+| Célula de carga   | R$7,90    |
+| Leds x 3          | R$0,72    |
+| Porta garrafa     | R$18,49   |
+| **Total**         |**R$86,78**|
 
 ## Funcionamento
 
