@@ -3,13 +3,13 @@ Repositório para o projeto referente a matéria EEN251 do IMT, sobre supervisã
 
 # Sumário
 
--[Descrição](#Descrição)
--[Requisitos](#Requisitos)
--[Materiais utilizados](#Materiais-utilizados)
--[Funcionamento](#Funcionamento)
--[Diagrama de blocos do sistema](#Diagrama-de-blocos-do-sistema)
--[Datasheet](#Datasheet)
--[Autores](#Autores)
+- [Descrição](#Descrição)
+- [Requisitos](#Requisitos)
+- [Materiais utilizados](#Materiais-utilizados)
+- [Funcionamento](#Funcionamento)
+- [Diagrama de blocos do sistema](#Diagrama-de-blocos-do-sistema)
+- [Datasheet](#Datasheet)
+- [Autores](#Autores)
 ## Descrição 
 
 O projeto consiste em um recipiente inteligente para garrafas, a qual por meio de display e leds o cliente e o garçom podera saber se a garrafa esta vazia ou cheia e se esta fria ou quente, sabendo destes dois dados o garçom poderá atender de forma personalizada e mais rapida o cliente gerando mais conforto para o mesmo.
