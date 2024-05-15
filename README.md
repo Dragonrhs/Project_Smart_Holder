@@ -25,7 +25,7 @@ O projeto deve apartir do peso da garrafa colocada saber se ela esta vazia ou ch
 
 </style>  
 
-<div class = "tabela">
+<div class = "tabela" style=".tabela tr:nth-child(3){background:red;}">
 
 | ID    |             Requisito          | Tipo |
 | :-----|-------------------------------|------:|
