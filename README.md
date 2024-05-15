@@ -23,9 +23,13 @@ O projeto deve apartir do peso da garrafa colocada saber se ela esta vazia ou ch
 ## Materiais utilizados
 - 1 Sensor Temperatura e Umidade DTH11 
 - 1 Display OLED i2c OLED 128x32 Px 
-- 1 Raspberry Pi
+- 1 Raspberry Pi Pico
 - 1 Módulo HX711
 - 1 Célula de Carga Fina 50 Kg
+- 3 Leds(vermelho, amarelo, verde)
+- Jumpers
+
+
 
 ## Funcionamento
 
