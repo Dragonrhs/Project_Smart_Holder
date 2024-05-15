@@ -38,7 +38,7 @@ O projeto deve apartir do peso da garrafa colocada saber se ela esta vazia ou ch
 ## Datasheet
 
 ## Autores
-- [Ryuske Hideaki Sato][https://github.com/Dragonrhs]
+- [Ryuske Hideaki Sato](https://github.com/Dragonrhs)
 - [Gabriel Henrique Baca Rado][https://github.com/Gabriel-HBR]
 - [Vinícius de Oliveira Berti][https://github.com/ViniciusBerti]
 - [Erick Eiji Nagao][https://github.com/ErickNagao]
