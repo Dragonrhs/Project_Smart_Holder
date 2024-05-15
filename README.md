@@ -3,13 +3,13 @@ Repositório para o projeto referente a matéria EEN251 do IMT, sobre supervisã
 
 # Sumário
 
--[Descrição][#Descrição]
--[Requisitos][#Requisitos]
--[Materiais utilizados][#Materiais-utilizados]
--[Funcionamento][#Funcionamento]
--[Diagrama de blocos do sistema][#Diagrama-de-blocos-do-sistema]
--[Datasheet][#Datasheet]
--[Autores][#Autores]
+-[Descrição](#Descrição)
+-[Requisitos](#Requisitos)
+-[Materiais utilizados](#Materiais-utilizados)
+-[Funcionamento](#Funcionamento)
+-[Diagrama de blocos do sistema](#Diagrama-de-blocos-do-sistema)
+-[Datasheet](#Datasheet)
+-[Autores](#Autores)
 ## Descrição 
 
 O projeto consiste em um recipiente inteligente para garrafas, a qual por meio de display e leds o cliente e o garçom podera saber se a garrafa esta vazia ou cheia e se esta fria ou quente, sabendo destes dois dados o garçom poderá atender de forma personalizada e mais rapida o cliente gerando mais conforto para o mesmo.
@@ -39,6 +39,6 @@ O projeto deve apartir do peso da garrafa colocada saber se ela esta vazia ou ch
 
 ## Autores
 - [Ryuske Hideaki Sato](https://github.com/Dragonrhs)
-- [Gabriel Henrique Baca Rado][https://github.com/Gabriel-HBR]
-- [Vinícius de Oliveira Berti][https://github.com/ViniciusBerti]
-- [Erick Eiji Nagao][https://github.com/ErickNagao]
+- [Gabriel Henrique Baca Rado](https://github.com/Gabriel-HBR)
+- [Vinícius de Oliveira Berti](https://github.com/ViniciusBerti)
+- [Erick Eiji Nagao](https://github.com/ErickNagao)
