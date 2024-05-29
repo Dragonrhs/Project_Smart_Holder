@@ -57,7 +57,7 @@ O projeto deve apartir do peso da garrafa colocada saber se ela esta vazia ou ch
 # Funcionamento
 
 ## Teste do sistema nao acoplado
-[![Watch the video](https://img.youtube.com/vi/O-Bjy6vLiDg?si=cTyuNUu4wXhJn-uJ/0.jpg)](https://youtu.be/O-Bjy6vLiDg?si=cTyuNUu4wXhJn-uJ)
+[![Watch the video](https://fireworkweb.com.br/wp-content/uploads/2023/12/Teste-de-software-1920x1306-1.png)](https://youtu.be/O-Bjy6vLiDg?si=cTyuNUu4wXhJn-uJ)
 
 
 ## Diagrama de blocos do sistema
