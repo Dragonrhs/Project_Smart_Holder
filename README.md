@@ -11,11 +11,11 @@ Repositório para o projeto referente a matéria EEN251 do IMT, sobre supervisã
 - [Diagrama de blocos do sistema](#Diagrama-de-blocos-do-sistema)
 - [Esquema Elétrico](#Esquema-Elétrico)
 - [Autores](#Autores)
-## Descrição 
+# Descrição 
 
 O projeto consiste em um recipiente inteligente para garrafas, a qual por meio de display e leds o cliente e o garçom podera saber se a garrafa esta vazia ou cheia e se esta fria ou quente, sabendo destes dois dados o garçom poderá atender de forma personalizada e mais rapida o cliente gerando mais conforto para o mesmo.
 
-## Requisitos 
+# Requisitos 
 
 O projeto deve apartir do peso da garrafa colocada saber se ela esta vazia ou cheia indicando atraves de leds essa informaçao, deve apresentar no display a temperatura que a bebida está, deve ter uma fonte de alimentação seja por meio da fonte ou opcionalmente por meio da bateria. 
 
@@ -30,7 +30,7 @@ O projeto deve apartir do peso da garrafa colocada saber se ela esta vazia ou ch
 | UR-06 | Uso de bateria para alimentação                     |**Desejável** |
 
 
-## Materiais utilizados
+# Materiais utilizados
 
 - Porta garrafa
 - 1 Sensor Temperatura e Umidade DTH11 
@@ -41,7 +41,7 @@ O projeto deve apartir do peso da garrafa colocada saber se ela esta vazia ou ch
 - 3 Leds(vermelho, amarelo, verde)
 - Jumpers
 
-## Custos Estimado 
+# Custos Estimado 
 
 | Item              |   Preço   | 
 | :-----------------|----------:|
@@ -54,7 +54,11 @@ O projeto deve apartir do peso da garrafa colocada saber se ela esta vazia ou ch
 | Porta garrafa     | R$18,49   |
 | **Total**         |**R$86,78**|
 
-## Funcionamento
+# Funcionamento
+
+## Teste do sistema nao acoplado
+[![Watch the video](https://img.youtube.com/vi/O-Bjy6vLiDg?si=cTyuNUu4wXhJn-uJ/0.jpg)](https://youtu.be/O-Bjy6vLiDg?si=cTyuNUu4wXhJn-uJ)
+
 
 ## Diagrama de blocos do sistema
 
@@ -64,7 +68,7 @@ O projeto deve apartir do peso da garrafa colocada saber se ela esta vazia ou ch
 
 ![screenshot](imagens/D_eletrico.png)
 
-## Autores
+# Autores
 - [Ryuske Hideaki Sato](https://github.com/Dragonrhs)
 - [Gabriel Henrique Baca Rado](https://github.com/Gabriel-HBR)
 - [Vinícius de Oliveira Berti](https://github.com/ViniciusBerti)
