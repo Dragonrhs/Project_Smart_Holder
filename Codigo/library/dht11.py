@@ -120,3 +120,4 @@ class DHT11:
             checksum += buf
         if checksum & 0xFF != buffer[4]:
             raise InvalidChecksum()
+
