@@ -71,7 +71,7 @@ Base e adaptações na garrafa internamente para separar a garrafa dos sensores
 
 ## Projeto em funcionamento
 
-[![Watch the video](https://assets-global.website-files.com/6399c61683700ed8ab159d36/639fb85066f416b5bf185fcf_Ciclo-de-vida-de-um-projeto.png)](https://youtu.be/O-Bjy6vLiDg?si=cTyuNUu4wXhJn-uJ)
+[![Watch the video](https://assets-global.website-files.com/6399c61683700ed8ab159d36/639fb85066f416b5bf185fcf_Ciclo-de-vida-de-um-projeto.png)](https://youtube.com/shorts/wZ8U5C9lqPA?si=9wOr_j91PnK2YjpW)
 
 ## Diagrama de blocos do sistema
 
