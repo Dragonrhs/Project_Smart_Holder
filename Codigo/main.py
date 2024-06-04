@@ -31,7 +31,7 @@ while True:
     t  = (sensor.temperature)
     
     raw_wt = hx711.read()
-    sf = 4300/350000 * 1.3
+    sf = 4300/350000
     weight = raw_wt*sf
     if (weight > 400):
         led1.on()
