@@ -57,11 +57,21 @@ O projeto deve apartir do peso da garrafa colocada saber se ela esta vazia ou ch
 # Funcionamento
 
 ## Teste do sistema não acoplado
-[![Watch the video](https://fireworkweb.com.br/wp-content/uploads/2023/12/Teste-de-software-1920x1306-1.png)](https://youtu.be/O-Bjy6vLiDg?si=cTyuNUu4wXhJn-uJ)
+[![Watch the video](https://www.alura.com.br/artigos/assets/tipos-de-testes-principais-por-que-utiliza-los/tipos-de-testes-principais-por-que-utiliza-los.jpg)](https://youtu.be/O-Bjy6vLiDg?si=cTyuNUu4wXhJn-uJ)
 
 ## Teste dos ajustes da parte física
+Apoio para a celular do sensor de peso
+
+![screenshot](imagens/Adaptacao_fisica_1)
+
+Base e adaptações na garrafa internamente para separar a garrafa dos sensores
+
+![screenshot](imagens/Adaptacao_fisica_2)
+
 
 ## Projeto em funcionamento
+
+[![Watch the video](https://assets-global.website-files.com/6399c61683700ed8ab159d36/639fb85066f416b5bf185fcf_Ciclo-de-vida-de-um-projeto.png)](https://youtu.be/O-Bjy6vLiDg?si=cTyuNUu4wXhJn-uJ)
 
 ## Diagrama de blocos do sistema
 
