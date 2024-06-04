@@ -62,11 +62,11 @@ O projeto deve apartir do peso da garrafa colocada saber se ela esta vazia ou ch
 ## Teste dos ajustes da parte física
 Apoio para a celular do sensor de peso
 
-![screenshot](imagens/Adaptacao_fisica_1)
+![screenshot](imagens/Adaptacao_fisica_1.jpg)
 
 Base e adaptações na garrafa internamente para separar a garrafa dos sensores
 
-![screenshot](imagens/Adaptacao_fisica_2)
+![screenshot](imagens/Adaptacao_fisica_2.jpg)
 
 
 ## Projeto em funcionamento
