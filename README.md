@@ -82,7 +82,7 @@ Base e adaptações na garrafa internamente para separar a garrafa dos sensores
 ![screenshot](imagens/D_eletrico.png)
 
 # Autores
-- [Ryuske Hideaki Sato](https://github.com/Dragonrhs)
-- [Gabriel Henrique Baca Rado](https://github.com/Gabriel-HBR)
-- [Vinícius de Oliveira Berti](https://github.com/ViniciusBerti)
-- [Erick Eiji Nagao](https://github.com/ErickNagao)
+- [Ryuske Hideaki Sato 21.00745-4](https://github.com/Dragonrhs)
+- [Gabriel Henrique Baca Rado 21.01286-5](https://github.com/Gabriel-HBR)
+- [Vinícius de Oliveira Berti 21.01219-9](https://github.com/ViniciusBerti)
+- [Erick Eiji Nagao 21.00690-3](https://github.com/ErickNagao)
